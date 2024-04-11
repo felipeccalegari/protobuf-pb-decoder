@@ -1,4 +1,4 @@
-# protobuf-pb-decoder
+# protobuf-pb-json-decoder
 
 I wrote a decoder in Python for protobuf files with .pb extension where you don't need the original .proto files to work and will create a .json file with the decoded info from the .pb.
 First you'll need to install the dependency with ```pip install blackboxprotobuf```.
